@@ -3,12 +3,12 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<qs2261@cumc.columbia.edu>
+    - text: "Linkedin"
+      href: https://www.linkedin.com/in/qinting-shen/
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/Qinting-Shen/
 output:
   html_document:
     theme: cerulean

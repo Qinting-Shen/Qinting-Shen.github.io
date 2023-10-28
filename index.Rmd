@@ -1,14 +1,16 @@
 ---
-title: "index"
-author: "Qinting Shen"
-date: "2023-10-28"
-output: html_document
+title: "Qinting Shen's Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
-# This is Qinting Shen's introduction website!
+# A brief introductory landing page
 
-## A brief introductory landing page
+# A page giving your academic and professional experience (i.e. a resume)
 
-## A page giving your academic and professional experience (i.e. a resume)
 
-## Links in the site navigation for your GitHub account, your email, and other professional networks.
+# Link to my Linkedin page
+
+[Linkedin Page](https://www.linkedin.com/in/qinting-shen/)
