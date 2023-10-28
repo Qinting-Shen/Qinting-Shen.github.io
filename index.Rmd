@@ -1,0 +1,14 @@
+---
+title: "index"
+author: "Qinting Shen"
+date: "2023-10-28"
+output: html_document
+---
+
+# This is Qinting Shen's introduction website!
+
+## A brief introductory landing page
+
+## A page giving your academic and professional experience (i.e. a resume)
+
+## Links in the site navigation for your GitHub account, your email, and other professional networks.
