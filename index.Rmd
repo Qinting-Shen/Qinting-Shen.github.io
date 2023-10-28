@@ -6,10 +6,48 @@ output:
     toc_float: true
 ---
 
-# A brief introductory landing page
+# A brief introduction
 
-# A page giving your academic and professional experience (i.e. a resume)
+# About me
 
+## Education
+**Columbia University Mailman School of Public Health**, New York, NY                                                  Sep 2022 – May 2024
+Master of Public Health, Epidemiology and Applied Biostatistics, GPA: 4.0/4.0
+
+Related courses: Personal Leadership in Practice; Data Science; Relational Databases and SQL Programming for Research
+
+**Nanjing Medical University**, Nanjing                                                                                        	Sep 2018 – May 2022
+Bachelor of Nursing, GPA: 3.69/4.0
+
+## Research Experience
+**Pooling Project of Prospective Studies of Diet and Cancer (DCPP)**
+New York, NY                               	   Jun 2023 – Today
+
+*Researcher and Analyst*
+
+* Conducted Cox Proportional-Hazard  model of 19 cohorts to explore the association between the alternative Mediterranean diet and pancreatic cancer with SAS Macro;
+
+* Visualized the results of the analysis using tables and forest plots and wrote a related research report.
+
+**Epidemiology Research**, Nanjing, Sep 2020 – Apr 2022
+*Researcher and Analyst*
+
+* Cleaned data from the China Health and Nutrition Survey (CHNS) database by using STATA; 
+
+* Conducted multiple linear regression, and stratification analysis by gender, age, BMI, and smoking status to see the changes in biomarker concentration in each stratum, and then made forest graphics with the aid of Graph Pad software.
+
+* Completed and revised a paper about the association of the Mediterranean diet and the Dietary Approaches to Stop Hypertension (DASH) diet with cardiometabolic biomarkers.
+
+
+## Internship
+**IQVIA**, Shanghai                                                                                                	 Jun 2023 – Aug 2023
+*Management Consultant Intern*
+
+* Participated as a consultant in the market research projects of colorectal cancer, urinary laser surgery, and liver fibrosis. Assisted the team in desk research, collecting disease-related clinical information and industry development data;
+
+* Responsible for the compilation of 30+ expert interviews, and the relevant industry data for quantitative and qualitative analysis, and built a model to predict the liver fibrosis detection industry's future growth trends;
+
+* Involved in the project for market entry for multiple sclerosis testing reagents. Understand disease information, market status, and gaps through desk research. Interviews and records of relevant experts were independently completed, and the national health insurance policy was used as the basis for pricing and assisted in writing a report about the market entry of the reagent.
 
 # Link to my Linkedin page
 
