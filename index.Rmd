@@ -8,16 +8,30 @@ output:
 
 # A brief introduction
 
-# About me
+My name is Qinting Shen, and I am currently a Master of Public Health student in Columbia University, with a certificate in Applied Biostatistics and Public Health Data Science. 
+
+I like playing squash, visiting art museums and playing guitar.
+
+A fun fact about me is that I know Tarots!
+
+# My background
 
 ## Education
-**Columbia University Mailman School of Public Health**, New York, NY                                                  Sep 2022 – May 2024
-Master of Public Health, Epidemiology and Applied Biostatistics, GPA: 4.0/4.0
+**Columbia University Mailman School of Public Health**
+New York, NY, Sep 2022 – May 2024
+
+*Master of Public Health, Epidemiology and Applied Biostatistics*
+
+GPA: 4.0/4.0
 
 Related courses: Personal Leadership in Practice; Data Science; Relational Databases and SQL Programming for Research
 
-**Nanjing Medical University**, Nanjing                                                                                        	Sep 2018 – May 2022
-Bachelor of Nursing, GPA: 3.69/4.0
+**Nanjing Medical University**
+Nanjing, Sep 2018 – May 2022
+
+*Bachelor of Nursing*
+
+GPA: 3.69/4.0
 
 ## Research Experience
 **Pooling Project of Prospective Studies of Diet and Cancer (DCPP)**
@@ -30,6 +44,7 @@ New York, NY                               	   Jun 2023 – Today
 * Visualized the results of the analysis using tables and forest plots and wrote a related research report.
 
 **Epidemiology Research**, Nanjing, Sep 2020 – Apr 2022
+
 *Researcher and Analyst*
 
 * Cleaned data from the China Health and Nutrition Survey (CHNS) database by using STATA; 
@@ -40,7 +55,8 @@ New York, NY                               	   Jun 2023 – Today
 
 
 ## Internship
-**IQVIA**, Shanghai                                                                                                	 Jun 2023 – Aug 2023
+**IQVIA**, Shanghai, Jun 2023 – Aug 2023
+
 *Management Consultant Intern*
 
 * Participated as a consultant in the market research projects of colorectal cancer, urinary laser surgery, and liver fibrosis. Assisted the team in desk research, collecting disease-related clinical information and industry development data;
