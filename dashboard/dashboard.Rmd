@@ -16,7 +16,7 @@ library(p8105.datasets)
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A: 
+### Chart A: Restaurant's Score in 2017
 
 ```{r}
 data("rest_inspec")
