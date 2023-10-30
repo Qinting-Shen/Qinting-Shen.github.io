@@ -9,6 +9,8 @@ navbar:
       href: https://www.linkedin.com/in/qinting-shen/
     - icon: fa-github fa-lg
       href: http://github.com/Qinting-Shen/
+    - text: "Dashboard"
+      href: dashboard.html
 output:
   html_document:
     theme: cerulean
